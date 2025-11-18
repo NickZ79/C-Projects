@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pizza__Order_Form_Project/1.0.0": {
+        "runtime": {
+          "Pizza__Order_Form_Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pizza__Order_Form_Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

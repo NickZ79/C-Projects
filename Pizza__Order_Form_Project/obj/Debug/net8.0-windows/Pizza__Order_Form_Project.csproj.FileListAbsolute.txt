@@ -1,0 +1,14 @@
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\obj\Debug\net8.0-windows\Pizza__Order_Form_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\obj\Debug\net8.0-windows\Pizza__Order_Form_Project.AssemblyInfoInputs.cache
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\obj\Debug\net8.0-windows\Pizza__Order_Form_Project.AssemblyInfo.cs
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\obj\Debug\net8.0-windows\Pizza__Order_Form_Project.csproj.CoreCompileInputs.cache
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\bin\Debug\net8.0-windows\Pizza__Order_Form_Project.exe
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\bin\Debug\net8.0-windows\Pizza__Order_Form_Project.deps.json
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\bin\Debug\net8.0-windows\Pizza__Order_Form_Project.runtimeconfig.json
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\bin\Debug\net8.0-windows\Pizza__Order_Form_Project.dll
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\bin\Debug\net8.0-windows\Pizza__Order_Form_Project.pdb
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\obj\Debug\net8.0-windows\Pizza__Order_Form_Project.dll
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\obj\Debug\net8.0-windows\refint\Pizza__Order_Form_Project.dll
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\obj\Debug\net8.0-windows\Pizza__Order_Form_Project.pdb
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\obj\Debug\net8.0-windows\Pizza__Order_Form_Project.genruntimeconfig.cache
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Pizza__Order_Form_Project\obj\Debug\net8.0-windows\ref\Pizza__Order_Form_Project.dll

@@ -1,0 +1,13 @@
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Bakery_Shop_Project\Bakery_Shop_Project\obj\Debug\Bakery_Shop_Project.csproj.AssemblyReference.cache
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Bakery_Shop_Project\Bakery_Shop_Project\obj\Debug\Bakery_Shop_Project.Properties.Resources.resources
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Bakery_Shop_Project\Bakery_Shop_Project\obj\Debug\Bakery_Shop_Project.csproj.GenerateResource.cache
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Bakery_Shop_Project\Bakery_Shop_Project\obj\Debug\Bakery_Shop_Project.csproj.CoreCompileInputs.cache
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Bakery_Shop_Project\bin\Debug\Bakery_Shop_Project.exe.config
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Bakery_Shop_Project\bin\Debug\Bakery_Shop_Project.exe
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Bakery_Shop_Project\bin\Debug\Bakery_Shop_Project.pdb
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Bakery_Shop_Project\obj\Debug\Bakery_Shop_Project.csproj.AssemblyReference.cache
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Bakery_Shop_Project\obj\Debug\Bakery_Shop_Project.Properties.Resources.resources
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Bakery_Shop_Project\obj\Debug\Bakery_Shop_Project.csproj.GenerateResource.cache
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Bakery_Shop_Project\obj\Debug\Bakery_Shop_Project.csproj.CoreCompileInputs.cache
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Bakery_Shop_Project\obj\Debug\Bakery_Shop_Project.exe
+C:\Users\nkzas\Desktop\CIS Classes\CS130 C#\Bakery_Shop_Project\obj\Debug\Bakery_Shop_Project.pdb
