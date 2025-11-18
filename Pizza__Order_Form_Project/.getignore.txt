@@ -1,0 +1,28 @@
+# Visual Studio project files
+.vs/
+*.user
+*.suo
+
+# Build directories
+bin/
+obj/
+Debug/
+Release/
+
+# Auto-generated
+*.Designer.cs
+*.resx
+*.opendb
+
+# NuGet
+packages/
+
+# Logs / temp
+*.log
+*.tmp
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
